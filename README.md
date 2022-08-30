@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yongwookkkkim
-- 👀 I’m interested in particle physics
-- 🌱 I’m currently learning scipy and pandas
+- 👀 I’m interested in particle physics & astrophysics
+- 🌱 I’m currently learning C# Windows Forms framework
 - 💞️ I’m looking to collaborate on rocket projects
 - 📫 How to reach me yongwook1124@gmail.com
 
