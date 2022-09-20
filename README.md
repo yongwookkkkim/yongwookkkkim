@@ -1,5 +1,9 @@
 <div align="center">
-  #Space Enthusiast
+  **Space Enthusiast**
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github.com/yongwookkkkim/yongwookkkkim/blob/main/spaceview.gif">
 </div>
 
 <div align="center">
