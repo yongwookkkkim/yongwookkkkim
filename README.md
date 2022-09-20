@@ -1,3 +1,5 @@
+![](https://github.com/yongwookkkkim/rocket-engine-test-test.gif)
+
 <!-- ./STAT -->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yongwookkkkim&show_icons=true&count_private=true&hide_border=true&title_color=c1f6e1&icon_color=c1f6e1&text_color=FFFFFF&bg_color=0d1117"/> 
