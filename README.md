@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="45%" height="400px" src="https://github.com/yongwookkkkim/yongwookkkkim/blob/main/rocket-engine-test-test.gif" />
-  <img width="45%" height="400px" src="https://github.com/yongwookkkkim/yongwookkkkim/blob/main/space-x-falcon-landing.gif" />
+  <img width="45%" height="250px" src="https://github.com/yongwookkkkim/yongwookkkkim/blob/main/rocket-engine-test-test.gif" />
+  <img width="45%" height="250px" src="https://github.com/yongwookkkkim/yongwookkkkim/blob/main/space-x-falcon-landing.gif" />
 </div>
 
 <!-- ./STAT -->
