@@ -1,5 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongwookkkkim)&count_private=true](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongwookkkkim&count_private=true)
 
 - 👋 Hi, I’m @yongwookkkkim
 - 👀 I’m interested in particle physics & astrophysics
