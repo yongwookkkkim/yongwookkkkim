@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongwookkkkim)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @yongwookkkkim
 - 👀 I’m interested in particle physics & astrophysics
 - 🌱 I’m currently learning C# MAUI
