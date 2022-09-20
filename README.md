@@ -1,6 +1,4 @@
-<div align="center">
-  **Space Enthusiast**
-</div>
+<h1 align="center">Space Enthusiast</h1>
 
 <div align="center">
   <img width="90%" src="https://github.com/yongwookkkkim/yongwookkkkim/blob/main/spaceview.gif">
