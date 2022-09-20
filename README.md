@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yongwookkkkim
 - 👀 I’m interested in particle physics & astrophysics
-- 🌱 I’m currently learning C# Windows Forms framework
+- 🌱 I’m currently learning C# MAUI
 - 💞️ I’m looking to collaborate on rocket projects
 - 📫 How to reach me yongwook1124@gmail.com
 
