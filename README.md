@@ -1,12 +1,12 @@
 <div align="center">
-  <img width="45%" height="200px" src="https://github.com/yongwookkkkim/yongwookkkkim/blob/main/rocket-engine-test-test.gif" />
-  <img width="45%" height="200px" src="https://github.com/yongwookkkkim/yongwookkkkim/blob/main/space-x-falcon-landing.gif" />
+  <img width="45%" height="400px" src="https://github.com/yongwookkkkim/yongwookkkkim/blob/main/rocket-engine-test-test.gif" />
+  <img width="45%" height="400px" src="https://github.com/yongwookkkkim/yongwookkkkim/blob/main/space-x-falcon-landing.gif" />
 </div>
 
 <!-- ./STAT -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yongwookkkkim&show_icons=true&count_private=true&hide_border=true&title_color=c1f6e1&icon_color=c1f6e1&text_color=FFFFFF&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongwookkkkim&layout=compact&hide_border=true&title_color=c1f6e1&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yongwookkkkim&show_icons=true&count_private=true&hide_border=true&title_color=c1f6e1&icon_color=c1f6e1&text_color=FFFFFF&bg_color=0d1117"/> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongwookkkkim&layout=compact&hide_border=true&title_color=c1f6e1&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 
